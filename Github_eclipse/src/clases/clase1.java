@@ -6,8 +6,7 @@ public class clase1 {
 		System.out.println("Segunda instantánea");
 		System.out.println("Tercera instantánea");
 		System.out.println("Cuarta instantánea");
-
-		
+		System.out.println("Quinta instantánea");
 
 	}
 	
